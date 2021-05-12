@@ -42,4 +42,7 @@ mka recoveryimage
 to build the recovery
 
 If also that is successful, congratulation!
+
 Go to out/target/product/codename/ (codename is your device codename) and you will find your recovery.img
+
+Good Luck;)
