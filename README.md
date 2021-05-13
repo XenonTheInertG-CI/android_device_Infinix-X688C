@@ -26,7 +26,7 @@ Example:
 
 brand name: Infinix 
 device codename: X688C
-Copy working/Infinix/X688C to device/xiaomi/whyred in TWRP sources
+Copy working/Infinix/X688C to device/infinix/X688C in TWRP sources
 Building
 Open a terminal with the current dir pointing to TWRP sources root
 Then type
